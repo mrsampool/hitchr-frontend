@@ -24,6 +24,8 @@ These five developers were given roughly 1.5 weeks to build out a fullstack web 
 
 The ultimate goal of _Hitchr_ is to reduce car traffic by allowing users to rideshare for long drives.
 
+![screenshot](create-ride.png)
+
 ---
 
 ## Primary Technologies
